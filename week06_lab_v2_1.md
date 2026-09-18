@@ -722,7 +722,7 @@ void main() {
 > ✅ **Checkpoint 7.1** ถ่ายภาพ Debug Console ที่ทดสอบ `Item.fromJson()` กับ JSON ตัวอย่างข้างต้นแล้ว print ค่าทั้ง 6 ฟิลด์ออกมาได้ถูกต้อง
 
 ```text
-บันทึกรูปที่นี่
+<img width="606" height="172" alt="image" src="https://github.com/user-attachments/assets/e698073c-61a2-4081-94ca-b1c76f8c651b" />
 ```
 ### ขั้นตอนที่ 7.3 — 🔧 ทำตาม (Interface) + 🧠 คิดเอง (Implementation)
 
@@ -859,7 +859,10 @@ class _HomePageState extends State<HomePage> {
 > ✅ **Checkpoint 7.3** รันแอปแล้วถ่ายภาพหน้าจอ Home ที่แสดงรายการสินค้าจริงจาก Fake Store API ผ่าน `ItemRepositoryApi` (ไม่ใช่ข้อมูล mock up) พร้อมภาพโครงสร้างไฟล์ที่แสดงให้เห็นว่ามีทั้ง `item_repository.dart` (Interface) และ `item_repository_api.dart` (Impl) แยกกันชัดเจน และทดสอบว่าปุ่ม "เพิ่มลงตะกร้า" กับการกดไปหน้า `CheckoutPage` จากสัปดาห์ที่ 5 ยังทำงานได้ปกติกับข้อมูล `Item` ชุดใหม่นี้ 
 
 ```text
-บันทึกรูปที่นี่
+<img width="1033" height="753" alt="image" src="https://github.com/user-attachments/assets/7de31910-0f3c-48c2-823a-2a4bf3ec3916" />
+<img width="1032" height="747" alt="image" src="https://github.com/user-attachments/assets/e4e582ae-8fa4-4169-a459-5c31f844af81" />
+<img width="317" height="777" alt="image" src="https://github.com/user-attachments/assets/1b98c3ca-777d-4a69-9eb1-ea7883ceaae0" />
+
 ```
 
 ---
